@@ -2,21 +2,20 @@
 
 ## Description
 
-This project was created to allow students of the Front End Coding bootcamp to access notes from the Prework modules to help them recall important foundational information as they progress through the coding course. 
-
-The project was a useful introduction to CSS, HTML and JS languages, as well as coding fundamentals, and provided helpful practical experience.
+This project was created to refactor existing starter code for a digital marketing agency to:
+1. Better adhere to accessibility standards
+2. Optimise the site for search engines
+3. Streamline the code where possible
 
 ## Installation
 n/a
 
 ## Usage
 
-Each section contains notes about a certain prework topic, like HTML, CSS, JavaScript, Git, that students can explore. 
-
-To see JavaScript running, open the DevTools console. It will list the topics students learned from prework and will select one topic to be studied first. 
+The website can be publically accessed at https://github.com/cgbea/04-challenge. You can navigate around the page to find out more information about the agency's services and expected outcomes. The page is suitable for use with assistive technologies such as screen readers.
 
 ## Credits
-n/a
+The starter code and assets were provided by edX as part of its Skills for Live front-end skills course.
 
 ## License
 MIT License
