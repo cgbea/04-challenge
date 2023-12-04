@@ -15,7 +15,7 @@ n/a
 The website can be publically accessed at https://github.com/cgbea/04-challenge. You can navigate around the page to find out more information about the agency's services and expected outcomes. The page is suitable for use with assistive technologies such as screen readers.
 
 ## Credits
-The starter code and assets were provided by edX as part of its Skills for Live front-end skills course.
+The starter code and assets were provided by edX as part of its Skills for Life front-end skills course.
 
 ## License
 MIT License
